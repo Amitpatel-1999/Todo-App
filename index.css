@@ -1,0 +1,58 @@
+body{
+	background-color: bisque	;
+}
+
+header{
+	text-align: center;
+}
+
+.btn-container{
+	text-align: center;
+}
+
+#items-content{
+	width: 50%;
+	margin: auto;
+}
+
+#head{
+	font-family: cursive;
+	color: crimson;
+	font-size: 3rem;
+}
+
+.content{
+	height: 35px;
+	border-radius: 25px;
+	margin: 2px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: lightgoldenrodyellow;
+}
+
+.btn{
+	width: 6rem;
+    height: 3rem;
+    color: white;
+    background-color: crimson;
+    border-radius: 25px;
+    border: none;
+    margin: 2px;
+}
+
+.btn-inner{
+	background-color: crimson;
+	width: 4rem;
+	height: 2rem;
+	margin-right: 10px;
+	border-radius: 35px;
+	color: white;
+	border: none;
+}
+
+.text-inner{
+	margin-left: 10px;
+	color: darksalmon;
+	font-family: cursive;	
+}
